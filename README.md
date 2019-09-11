@@ -5,7 +5,7 @@
 [Gogogo Official](https://golang.org/)<br>
 [“Go: Retrospective” by Vincent Blanchon](https://medium.com/a-journey-with-go/go-retrospective-b9723352e9b0)
 
-* Advantages
+* Advantages & Features
   * Concise Grammar and Simplicity <br>
   * Parallel Programming Support <br>
   * Static type and dynamic execution <br>
