@@ -5,6 +5,16 @@
 [Gogogo Official](https://golang.org/)<br>
 [“Go: Retrospective” by Vincent Blanchon](https://medium.com/a-journey-with-go/go-retrospective-b9723352e9b0)
 
+
+* strong and statically typed
+* excellent community
+* key feature
+  * Simplicity
+  * fast compile times
+  * garbage collected
+  * built-in concurrency
+  * compile to standalone binaries
+
 * Advantages & Features
   * Concise Grammar and Simplicity <br>
   * Parallel Programming Support <br>
